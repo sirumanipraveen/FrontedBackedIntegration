@@ -1,0 +1,17 @@
+.textsizetable{
+    font-size: 17px;
+    font-weight: bold;
+    
+    box-shadow: 2px 2px 3px 2px;
+    color: rgb(5, 11, 17);
+}
+.textsizetable1{
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 2px 2px 3px 2px;
+    color: aliceblue;
+}
+.button-style{
+    font-size: 12px;
+    height: 25px;
+}

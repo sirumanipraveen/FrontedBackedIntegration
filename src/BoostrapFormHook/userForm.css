@@ -1,0 +1,36 @@
+.Labelelement{
+    text-align: start;
+    color: red;
+}
+.sizeoftext{
+    font-size: 14px;
+    font-weight: 400;
+}
+.textsize{
+    font-size: 12px;
+    height: 32px;
+   width: 300px;
+}
+.button-style{
+    border-radius: 5px;
+    height: 26px;
+    font-size: 14px;
+    width: 90px;
+    padding-bottom: 25px;
+ 
+}
+.main-container {
+    top: 0; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    background-color: #ffffff;  
+    width: 90vw; 
+    max-width: 1200px;
+    height: auto;   
+      position: fixed; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000; 
+    padding: 20px;
+    border-radius: 10px; 
+}
+
